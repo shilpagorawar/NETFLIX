@@ -1,0 +1,791 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#p{
+    border: 2px solid red;
+    height: 100px;
+    width: 99.8%;
+    display: flex;
+    justify-content: space-between;
+    border: none;
+    background-image: linear-gradient(black,grey);
+}
+.n1{
+    color: white;
+    border: 2px solid red;
+    height: 100px;
+    width: 300px;
+    position: relative;
+    left: 1%;
+    border: none;
+}
+.n2{
+    color: white;
+    border: 2px solid red;
+    height: 100px;
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: none;
+}
+.sign1{
+    color: white;
+    border: 2px solid red;
+    height: 50%;
+    width: 50%;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: none;
+}
+.sign2{
+    color: white;
+    border: 2px solid red;
+    height: 50%;
+    width: 30%;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: none;
+}
+
+#pc1{
+    background-color:gray;
+    opacity: 2;
+    border: 2px solid red;
+    height: 700px;
+    width: 99.8%;
+    margin-top: 0.01%;
+    margin-left: 10%;
+    background-size: 80% 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    right: 10%;
+    border: none;
+}
+.zz{
+    position: relative;
+    bottom: 150%;
+    right: 15%;
+}
+.pcc0{
+    border: 2px solid red;
+    height: 100px;
+    color: white;
+    width: 30%;
+    padding-left: 20%;
+    font-size: large;
+    position: relative;
+    left: 19%;
+    top: 3%;
+    border: none;
+}
+.pcc1{
+    color:gray;;
+    border: 2px solid red;
+    height: 100px;
+    width: 45%;
+    position: relative;
+    top: 200px;
+    left: 200px;
+    text-align: center;
+    border: none;
+}
+.pcc2{
+    color: white;
+    border: 2px solid red;
+    height: 100px;
+    width: 45%;
+    position: relative;
+    text-align: center;
+    top: 27px;
+    left: 370px;
+    border: none;
+}
+.pcc3{
+    color: white;
+    border: 2px solid red;
+    height: 100px;
+    width: 50%;
+    position: relative;
+    top: 3px;
+    left: 450px;
+    border: none;
+}
+.pcc4{
+    color: white;
+    border: 2px solid red;
+    height: 100px;
+    width: 65%;
+    position: relative;
+    top: 70px;
+    left: 300px;
+    border: none;
+}
+.inn{
+    color: white;
+    border: 2px solid red;
+    opacity: 0.6;
+    border-radius: 50px;
+    height: 50px;
+    width: 50%;
+    border: none;
+}
+
+
+img{
+    mix-blend-mode: multiply;
+}
+.in{
+    color: white;
+    border: 2px solid red;
+    background-color: rgb(222, 16, 16);
+    align-items: end;
+    justify-content: space-between;
+    border-radius: 50px;
+    height: 50px;
+    width: 30%;
+    position: relative;
+    left: 10%;
+    border: none;
+}
+#pc2{
+    background-color:gray;
+    color: white;
+    border: 2px solid red;
+    height: 450px;
+    width: 100%;
+    display: flex;
+    border: none;
+}
+.pcc5{
+    color: white;
+    border: 2px solid red;
+    height: 80px;
+    width: 70%;
+    position: relative;
+    left:10%;
+    border: none;
+}
+.ab{
+    font-size: x-large;
+}
+.pcc6{
+    color: white;
+    border: 2px solid red;
+    height: 300px;
+    width: 55%;
+    position: relative;
+    top: 20%;
+    right: 140px;
+    background-image: url("https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dragon-hindi-et00437892-1741759066.jpg");
+    background-repeat: cover;
+    background-size: 100% 400px;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    border-bottom-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border: none;
+}
+.pcc7{
+    color: white;
+    border: 2px solid red;
+    height: 300px;
+    width: 55%;
+    position: relative;
+    top: 20%;
+    right: 120px;
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNWU1ZWFhNGQtZDhlZC00ZWFlLTlmNmEtN2VmYmZiN2Y5ZmQ2XkEyXkFqcGc@._V1_.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    border-bottom-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border: none;
+}
+.pcc8
+{
+    color: white;
+    border: 2px solid red;
+    height: 300px;
+    width: 55%;
+    position: relative;
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZTllOTk2MDgtZmZmYy00MDBhLThiMzctNzhmNTk5ODdkZTcwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 20%;
+    right: 100px;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    border-bottom-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border: none;
+}
+.pcc9{
+    color: white;
+    border: 2px solid red;
+    height: 300px;
+    width: 55%;
+    position: relative;
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMzBjODQ3MDctZWJlYi00ZmIyLThhZjItZGE3MGI3MWZjNGMxXkEyXkFqcGc@._V1_.jpg");
+    background-size:cover;
+    top: 20%;
+    right: 80px;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    border-bottom-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border: none;
+}
+.pcc10{
+    color: white;
+    border: 2px solid red;
+    height: 300px;
+    width: 55%;
+    position: relative;
+    background-image: url("https://www.willistonian.org/wp-content/uploads/2025/02/squidgame.jpg");
+    background-size: cover;
+    top: 20%;
+    right: 60px;
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    border-bottom-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border: none;
+}
+.a{
+    color: white;
+    border: 2px solid red;
+    height: 90px;
+    width: 30%;
+    position: relative;
+    bottom: 7%;
+    right: 40px;
+    mix-blend-mode: multiply;
+    border: none;
+}
+.b{
+    color: white;
+    border: 2px solid red;
+    height: 90px;
+    width: 30%;
+    position: relative;
+    bottom: 7%;
+    right: 7px;
+    border: none;
+}
+.c{
+        color: white;
+        border: 2px solid red;
+        height: 90px;
+        width: 30%;
+        position: relative;
+        bottom: 7%;
+        right: 7px;
+        border: none;
+}
+.d{
+    color: white;
+        border: 2px solid red;
+        height: 90px;
+        width: 30%;
+        position: relative;
+        bottom: 7%;
+        right: 7px;
+        border: none;
+}
+.e{
+    color: white;
+    border: 2px solid red;
+    height: 90px;
+    width: 30%;
+    position: relative; 
+    bottom: 7%;
+    right: 7px;
+    border: none;
+}
+#pc3{
+    border: 2px solid #ff0000;
+    height: 500px;
+    background-color:gray;
+    border: none;
+
+}
+.pcc6:hover{
+    height: 330px;
+    width: 60%;
+    transition-duration: 1s;
+
+}
+.pcc7:hover{
+    height: 350px;
+    width: 60%;
+    transition-duration: 1s;
+
+}
+.pcc8:hover{
+    height: 330px;
+    width: 60%;
+    transition-duration: 1s;
+
+}
+.pcc9:hover{
+    height: 330px;
+    width: 60%;
+    transition-duration: 1s;
+
+
+}
+.pcc10:hover{
+    height: 330px;
+    width: 60%;
+    transition-duration: 1s;
+}
+#pc3{
+    border: 2px solid red;
+    height: 350px;
+    width: 100%;
+
+    display: flex;
+    border: none;
+   
+}
+.pcc11{
+    color: white;
+    border: 2px solid red;
+    height: 70px;
+    width: 70%;
+    position: relative;
+    left: 9.5%;
+    font-size: large;
+    border: none;
+}
+.pcc12
+{
+    color: white;
+    border: 2px solid red;
+    height: 200px;
+    width: 900px;
+    position: relative;
+    top: 25%;
+    right: 13.1%;
+    border: none;
+}
+.pcc13
+{
+    color: white;
+    border: 2px solid red;
+    height: 200px;
+    width: 900px;
+    position: relative;
+    top:25%;
+    right: 11%;
+    border: none;
+}
+.pcc14
+{
+    color: white;
+    border: 2px solid red;
+    height: 200px;
+    width: 900px;
+    position: relative;
+    top:25%;
+    right: 9%;
+    border: none;
+}
+.pcc15
+{
+    color: white;
+    border: 2px solid red;
+    height: 200px;
+    width: 900px;
+    position: relative;
+    top:25%;
+    right: 7%;
+    border: none;
+}
+.f{
+    color: white;
+    border: 2px solid red;
+    height: 80px;
+    width: 30%;
+    position: relative;
+    bottom: 2%;
+    left: 200px;
+    mix-blend-mode: multiply;
+    border: none;
+}
+.g{
+    color: white;
+    border: 2px solid red;
+    height: 80px;
+    width: 30%;
+    position: relative;
+    bottom: 6.5%;
+    left: 200px;
+    mix-blend-mode: multiply;
+    border: none;
+}
+.h{
+    color: white;
+    border: 2px solid red;
+    height: 80px;
+    width: 30%;
+    position: relative;
+    top: 7%;
+    left: 200px;
+    mix-blend-mode: multiply;
+    border: none;
+}
+.i{
+    color: white;
+    border: 2px solid red;
+    height: 80px;
+    width: 30%;
+    position: relative;
+    bottom: 2%;
+    left: 200px;
+    mix-blend-mode: multiply;
+    border: none;
+}
+#pc4{
+    border: 2px solid red;
+    height: 990px;
+    width: 100%;
+    background-color:gray;
+    position: relative;
+    bottom: 55%;
+    border: none;
+}
+.pcc16{
+    color: white;
+    border: 2px solid red;
+    height: 100px;
+    width: 30%;
+    position: relative;
+    left: 9.5%;
+    font-size: large;
+    border: none;
+}
+.aa{
+    color: black;
+    border: 2px solid red;
+    height: 80px;
+    width: 60%;
+    position: relative;
+    left: 9.5%;
+    padding-right: 52%;
+    border-radius: 10px;
+    border: none;
+}
+.bb{
+    color: black;
+    border: 2px solid red;
+    height: 70px;
+    width: 60%;
+    position: relative;
+    left: 9.5%;
+    padding-right: 47%;
+    border-radius: 10px;
+    border: none;
+}
+.cc{
+    color: black;
+    border: 2px solid red;
+    height: 80px;
+    width: 60%;
+    position: relative;
+    left: 9.5%;
+    padding-right: 51%;
+    border-radius: 10px;
+    border: none;
+}
+.dd{
+    color: black;
+    border: 2px solid red;
+    height: 80px;
+    width: 60%;
+    position: relative;
+    left: 9.5%;
+    padding-right: 52%;
+    border-radius: 10px;
+    border: none;
+}
+.ee{
+    color: black;
+    border: 2px solid red;
+    height: 80px;
+    width: 60%;
+    position: relative;
+    left: 9.5%;
+    padding-right: 47%;
+    border-radius: 10px;
+    border: none;
+}
+.ff{
+    color: black;
+    border: 2px solid red;
+    height: 80px;
+    width: 60%;
+    position: relative;
+    left: 9.5%;
+    padding-right: 48%;
+    border-radius: 10px;
+    border: none;
+}
+.aaa{
+    color: white;
+    border: 2px solid red;
+    height: 40px;
+    width: 60%;
+    border: none;
+}
+.pcc17{
+    color: white;
+    border: 2px solid red;
+    height: 55px;
+    width: 55%;
+    position: relative;
+    left: 20%;
+    top:2%;
+    border: none;
+}
+.inn{
+    color: white;
+    border: 2px solid red;
+    opacity: 0.6;
+    border-radius: 50px;
+    height: 50px;
+    width: 50%;
+    border: none;
+}
+.in{
+    color: white;
+    border: 2px solid red;
+    background-color: rgb(222, 16, 16);
+    align-items: end;
+    justify-content: space-between;
+    border-radius: 50px;
+    height: 50px;
+    width: 30%;
+    position: relative;
+    left: 10%;
+    border: none;
+}
+#pc5{
+    color: white;
+    border:2px solid red;
+    height: 40px;
+    background-color:gray;
+    width: 100%;
+    display: flex;
+    border: none;
+}
+.pcc18{
+    color: white;
+    border: 2px solid red;
+    height: 40px;
+    width: 50%;
+    position: relative;
+    font-size: large;
+    left: 10%;
+    border: none;
+}
+#pc6{
+    color: white;
+    border:2px solid red;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    background-color:gray;
+    border: none;
+}
+.bbb{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 100%;
+    font-size: large;
+    position: relative;
+    left: 150px;
+    border: none;
+}
+.ccc{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 150%;
+    font-size: large;
+    position: relative;
+    left: 350px;
+    border: none;
+}
+.ddd{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 100%;
+    font-size: large;
+    position: relative;
+    left: 550px;
+    border: none;
+}
+.eee{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 150%;
+    font-size: large;
+    position: relative;
+    left: 750px;
+    border: none;
+}
+.fff{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 200%;
+    font-size: large;
+    position: relative;
+    top: 10.5%;
+    right: 219px;
+    border: none;
+}
+.ggg{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 100%;
+    font-size: large;
+    position: relative;
+    top: 10.5%;
+    right: 91px;
+    border: none;
+}
+.hhh{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 170%;
+    font-size: large;
+    position: relative;
+    top: 10.5%;
+    left: 145px;
+    border: none;
+}
+.iii{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 150%;
+    font-size: large;
+    position: relative;
+    top: 10.5%;
+    left: 294px;
+    border: none;
+}
+.jjj{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 100%;
+    font-size: large;
+    position: relative;
+    top: 21%;
+    right: 675px;
+    border: none;
+}
+.kkk{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 200%;
+    font-size: large;
+    position: relative;
+    top: 21%;
+    right:475px;
+    border: none;
+}
+.lll{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 250%;
+    font-size: large;
+    position: relative;
+    top: 21%;
+    right:311px;
+    border: none;
+}
+.mmm{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 150%;
+    font-size: large;
+    position: relative;
+    top:21%;
+    right: 219px;
+    border: none;
+}
+.nnn{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 150%;
+    font-size: large;
+    position: relative;
+    top:31.5%;
+    right: 1188px;
+    border: none;
+}
+.ooo{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 200%;
+    font-size: large;
+    position: relative;
+    top:31.5%;
+    right: 1024px;
+    border: none;
+}
+.ppp{
+    color: white;
+    border: 2px solid red;
+    height: 50px;
+    width: 200%;
+    font-size: large;
+    position: relative;
+    top:21%;
+    right: 713px;
+    border: none;
+}
+.aaaa{
+    color: white;
+    border: 2px solid red;
+    height: 65px;
+    width: 200%;
+    position: relative;
+    right: 1810%;
+    top: 50%;
+    font-size: large;
+    padding-left: 50%;
+    padding-top: 40%;
+    border-radius: 50px;
+    border: none;
+}
+.me{
+    border: 2px solid red;
+    height: 90px;
+    width: 300%;
+    position: relative;
+    right: 600%;
+    background-color: gray;
+    border: none;
+}
