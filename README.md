@@ -13,7 +13,7 @@ This project is a front-end clone of the Netflix landing page built using **HTML
 - CSS3  
 
 ## 📸 Preview
-![Netflix Clone Screenshot](screenshot.png)  
+![Netflix Clone Screenshot](Screenshot.png)  
 *(Add a screenshot of your page here — optional)*
 
 ## 🚀 How to Run
